@@ -4,9 +4,9 @@ Sitio web de dos páginas con una guía básica para armar una huerta en poco es
 
 ## Integrantes
 
-- Integrante 1 – nombre y apellido
-- Integrante 2 – nombre y apellido
-- Integrante 3 – nombre y apellido
+- Integrante 1 – Rominia Macuri
+- Integrante 2 – Ybañez Fernanda
+- Integrante 3 y 4 – Diaz Candela y Bermudez Iara
 
 ## Estructura
 
