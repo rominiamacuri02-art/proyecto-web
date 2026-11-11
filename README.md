@@ -6,7 +6,8 @@ Sitio web de dos páginas con una guía básica para armar una huerta en poco es
 
 - Integrante 1 – Rominia Macuri
 - Integrante 2 – Ybañez Fernanda
-- Integrante 3 y 4 – Diaz Candela y Bermudez Iara
+- Integrante 3 - Diaz Candela
+- Integrante 4 – Bermudez Iara
 
 ## Estructura
 
@@ -23,7 +24,7 @@ proyecto-web/
 
 1. Clonar el repositorio:
    ```
-   git clone https://github.com/USUARIO/proyecto-web.git
+   git clone https://github.com/rominiamacuri02-art/proyecto-web.git
    cd proyecto-web
    ```
 2. Abrir `index.html` con doble clic en el navegador. No necesita instalar nada.
@@ -32,8 +33,9 @@ proyecto-web/
 ## Ramas de trabajo
 
 - `main`: versión final.
-- `feature-inicio`: desarrollo de `index.html`.
-- `feature-nosotros`: desarrollo de `nosotros.html`.
-- `feature-estilos`: desarrollo de `css/style.css`.
+- `feature-rominia`: desarrollo de `index.html`.
+- `feature-fernanda`: desarrollo de `nosotros.html`.
+- `feature-diaz`: desarrollo de `css/style.css`.
+- feature-bermudez : desarrollo del `README.md`
 
 Cada rama se integró a `main` con un merge.
