@@ -36,6 +36,6 @@ proyecto-web/
 - `feature-rominia`: desarrollo de `index.html`.
 - `feature-fernanda`: desarrollo de `nosotros.html`.
 - `feature-diaz`: desarrollo de `css/style.css`.
-- feature-bermudez : desarrollo del `README.md`
+- `feature-bermudez` : desarrollo del `README.md`
 
 Cada rama se integró a `main` con un merge.
