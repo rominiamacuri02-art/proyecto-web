@@ -39,3 +39,5 @@ proyecto-web/
 - `feature-bermudez` : desarrollo del `README.md`
 
 Cada rama se integró a `main` con un merge.
+
+Proyecto realizado en noviembre de 2026.
